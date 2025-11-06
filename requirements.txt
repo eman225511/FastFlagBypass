@@ -1,0 +1,7 @@
+# FastFlag Bypass Tool Requirements
+# No external dependencies required - uses Python standard library only
+
+# Optional: Uncomment if you want enhanced colored output on older Windows versions
+# colorama>=0.4.4
+
+# Future dependencies can be added here as needed
